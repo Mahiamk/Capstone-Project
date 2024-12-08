@@ -32,28 +32,26 @@ Through this API, I will be able to provide the users with the relevant news art
 
 3. Project Timeline with Key Milestones
 
-Milestone
-Description
-Date
+<h3> Milestone 
+
+<h3>Description
+
+<h3>Date
+
 Week 1
 Set up Development environment
 Dec 6,2024
+
 -Install Node.js, React, Tailwind CSS(Optional).
-
-
 Dec 7,2024
+
 -Create GitHub repository, add initial folder structure
-
-
 Dec 8, 2024
+
 Week 2
 Design and API integration
 Dec 14
 -implement newsAPI integration to fetch top headlines
-
-
-
-
 -Build the basic user interface with React(components for articles, search bar, etc).
 
 
@@ -64,12 +62,7 @@ Front End styling and Refinement
 Dec 21
 -style the app using Tailwind CSS
 
-
-
-
 -Add filters and search options(e.g, filter by category, language).
-
-
 
 
 Week 4
