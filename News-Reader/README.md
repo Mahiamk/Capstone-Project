@@ -1,3 +1,4 @@
+# NEWS READER
 1. Project Idea: News Reader
 
 Why I Chose This Idea:
